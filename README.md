@@ -21,7 +21,7 @@ Conceitos básicos
 💸 <b>• VÍDEO AULA : https://www.youtube.com/watch?v=TQB270nYCl0
   
   
-💸 <b>• DOWNLOAD : https://www.mediafire.com/file/m13cozv4xkl5usu/Lofy-SelfBot-V4.rar/file
+💸 <b>• DOWNLOAD : https://www.mediafire.com/file/lnhogyn5yypr1tw/Lofy-SelfBot-V4.rar/file
 
 💸 <b>• VIRUSTOTAL-SCAN : https://www.virustotal.com/gui/file/5b90b134f4fdbfaf2b94b9fdfb5193ed3dc0a3b1e6602e9ab0441acb52590674?nocache=1
 
