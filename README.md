@@ -18,7 +18,9 @@ Conceitos básicos
 3- Para que seu bot não caia rapidamente utilize um que a mais tempo de criação como 1 mês por ai.<p>
 4- Lembre-se de ativar "Privileged Gateway Intents" na pagina do discord developer
 
-
+💸 <b>• VÍDEO AULA : https://www.youtube.com/watch?v=TQB270nYCl0
+  
+  
 💸 <b>• DOWNLOAD : https://www.mediafire.com/file/m13cozv4xkl5usu/Lofy-SelfBot-V4.rar/file
 
 💸 <b>• VIRUSTOTAL-SCAN : https://www.virustotal.com/gui/file/5b90b134f4fdbfaf2b94b9fdfb5193ed3dc0a3b1e6602e9ab0441acb52590674?nocache=1
