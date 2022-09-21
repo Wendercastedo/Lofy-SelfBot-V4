@@ -1,3 +1,6 @@
+![5197f7c4-6b28-4252-9ddd-ab170b5a70a7](https://user-images.githubusercontent.com/113463089/191509200-043d5aaf-7dfc-4ace-9719-9f155cdcf297.jpg)
+
+
 🔥 <B>Lofy Selfbot V4</b>
 
 
@@ -20,7 +23,7 @@ Conceitos básicos
 
 💸 <b>• VIRUSTOTAL-SCAN : https://www.virustotal.com/gui/file/5b90b134f4fdbfaf2b94b9fdfb5193ed3dc0a3b1e6602e9ab0441acb52590674?nocache=1
 
-![5197f7c4-6b28-4252-9ddd-ab170b5a70a7](https://user-images.githubusercontent.com/113463089/191509200-043d5aaf-7dfc-4ace-9719-9f155cdcf297.jpg)
+
 
 
 
