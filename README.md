@@ -24,6 +24,8 @@ Conceitos básicos
 💸 <b>• VIRUSTOTAL-SCAN : https://www.virustotal.com/gui/file/5b90b134f4fdbfaf2b94b9fdfb5193ed3dc0a3b1e6602e9ab0441acb52590674?nocache=1
 
 
+  
+  ![maxresdefault](https://user-images.githubusercontent.com/113463089/191509489-cb876b69-8387-4f45-8b9e-690c80627a3b.jpg)
 
 
 
