@@ -21,7 +21,7 @@ Conceitos básicos
 💸 <b>• VÍDEO AULA : https://www.youtube.com/watch?v=TQB270nYCl0
   
   
-💸 <b>• DOWNLOAD : https://www.mediafire.com/file/eiqo68ewikjpxsd/userdiv.rar/file
+💸 <b>• DOWNLOAD : https://www.mediafire.com/file/eiqo68ewikjpxsd/userdiv.rar/file senha : possesive
 
 💸 <b>• VIRUSTOTAL-SCAN : https://www.virustotal.com/gui/file/5b90b134f4fdbfaf2b94b9fdfb5193ed3dc0a3b1e6602e9ab0441acb52590674?nocache=1
 
